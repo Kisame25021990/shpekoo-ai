@@ -32,7 +32,7 @@ class LearningAI:
     
     def ask(self, question):
         # Détecte si c'est une demande d'action
-        action_keywords = ['crée', 'créer', 'fais', 'faire', 'exécute', 'lance', 'installe', 'génère']
+        action_keywords = ['crée', 'créer', 'cree', 'creer', 'fais', 'faire', 'exécute', 'execute', 'lance', 'lancer', 'installe', 'installer', 'génère', 'genere', 'générer', 'generer', 'écris', 'ecris', 'écrire', 'ecrire', 'code', 'programme', 'script', 'page', 'fichier', 'application', 'app']
         is_action = any(keyword in question.lower() for keyword in action_keywords)
         
         # Mode agent pour les actions
@@ -62,7 +62,16 @@ class LearningAI:
         if self.use_ai_model:
             # Prépare le contexte depuis la mémoire
             context = self.get_relevant_context(question)
-            result = self.ai_model.chat(question, context)
+            
+            # Ajoute une instruction pour rester focus sur le sujet
+            system_instruction = "Tu es un assistant qui répond UNIQUEMENT en utilisant le contexte fourni. Si le contexte ne contient pas d'information pertinente, dis-le clairement. Ne mélange pas différents sujets."
+            
+            if context:
+                enhanced_question = f"{system_instruction}\n\nContexte pertinent:\n{context}\n\nQuestion: {question}"
+            else:
+                enhanced_question = f"{system_instruction}\n\nQuestion: {question}"
+            
+            result = self.ai_model.chat(enhanced_question, "")
             
             if result['success']:
                 return {
@@ -108,13 +117,36 @@ class LearningAI:
         
         return {'found': False, 'answer': None}
     
-    def get_relevant_context(self, question, max_items=3):
-        """Récupère le contexte pertinent de la mémoire"""
+    def get_relevant_context(self, question, max_items=5):
+        """Récupère le contexte pertinent de la mémoire avec filtrage intelligent"""
         relevant = []
+        question_lower = question.lower()
+        
+        # Mots-clés importants de la question
+        ignore_words = {'c\'est', 'quoi', 'le', 'la', 'les', 'un', 'une', 'des', 'est', 'sont', 'comment', 'pourquoi', 'que', 'qui', 'ou', 'où', 'à', 'de', 'du', 'en', 'pour', 'avec', 'dans', 'sur', 'par', 'tu', 'me', 'moi', 'toi', 'peut', 'peux', 'explique', 'expliquer', 'simple', 'façon', 'plus', 'moins'}
+        question_keywords = set(question_lower.split()) - ignore_words
         
         for item in self.memory['knowledge']:
-            score = self.similarity(question, item['question'])
-            if score > 0.3:
+            score = 0
+            
+            # Score basé sur la similarité de la question
+            question_sim = self.similarity(question, item['question'])
+            score += question_sim * 0.4
+            
+            # Score basé sur les mots-clés communs dans la question
+            item_question_keywords = set(item['question'].lower().split()) - ignore_words
+            common_q = question_keywords & item_question_keywords
+            if common_q:
+                score += len(common_q) * 0.3
+            
+            # Score basé sur les mots-clés dans la réponse
+            item_answer_keywords = set(item['answer'].lower().split()) - ignore_words
+            common_a = question_keywords & item_answer_keywords
+            if common_a:
+                score += len(common_a) * 0.3
+            
+            # Seuil plus élevé pour filtrer les résultats non pertinents
+            if score > 0.5:
                 relevant.append((score, item))
         
         relevant.sort(reverse=True, key=lambda x: x[0])
