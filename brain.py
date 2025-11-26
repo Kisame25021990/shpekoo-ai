@@ -4,6 +4,7 @@ from difflib import SequenceMatcher
 from ai_model import AIModel
 from agent_tools import AgentTools
 from agent_planner import AgentPlanner
+from history import ConversationHistory
 
 class LearningAI:
     def __init__(self, memory_file='memory.json'):
@@ -16,6 +17,9 @@ class LearningAI:
         self.agent_tools = AgentTools()
         self.agent_planner = AgentPlanner(self.ai_model, self.agent_tools)
         self.agent_mode = False
+        
+        # Historique
+        self.history = ConversationHistory()
     
     def load_memory(self):
         if os.path.exists(self.memory_file):
@@ -74,12 +78,14 @@ class LearningAI:
             result = self.ai_model.chat(enhanced_question, "")
             
             if result['success']:
-                return {
+                answer_data = {
                     'found': True,
                     'answer': result['answer'],
                     'confidence': 100,
                     'source': 'ai_model'
                 }
+                self.history.add_conversation(question, result['answer'], 'ai_model')
+                return answer_data
         
         # Sinon, cherche dans la mémoire (fallback)
         best_match = None
@@ -108,12 +114,14 @@ class LearningAI:
                 best_match = item
         
         if best_match and best_score > 0.85:
-            return {
+            answer_data = {
                 'found': True,
                 'answer': best_match['answer'],
                 'confidence': round(min(best_score * 100, 100), 1),
                 'source': 'memory'
             }
+            self.history.add_conversation(question, best_match['answer'], 'memory')
+            return answer_data
         
         return {'found': False, 'answer': None}
     

@@ -3,297 +3,126 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shpekoo-AI</title>
+    <title>Shpekoo-AI 🤖</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <div class="container">
-        <h1>Shpekoo-AI</h1>
-        
-        <div class="stats">
-            <div>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h2>🤖 Shpekoo-AI</h2>
+            <div class="stats-mini">
                 <span id="knowledge-count">0</span> connaissances
-                <span id="ai-status" style="margin-left: 20px;"></span>
             </div>
-            <button id="agent-toggle" onclick="toggleAgentMode()" style="padding: 6px 12px; font-size: 12px;">Mode Agent: OFF</button>
         </div>
-
-        <div class="chat-box" id="chat-box"></div>
-
-        <div class="input-section">
-            <input type="text" id="question-input" placeholder="Pose une question..." />
-            <button onclick="askQuestion()">Demander</button>
+        
+        <div class="sidebar-menu">
+            <button class="menu-btn active" onclick="showTab('chat')">💬 Chat</button>
+            <button class="menu-btn" onclick="showTab('history')">📜 Historique</button>
+            <button class="menu-btn" onclick="showTab('knowledge')">📚 Connaissances</button>
+            <button class="menu-btn" onclick="showTab('code')">▶️ Exécuter Code</button>
+            <button class="menu-btn" onclick="showTab('learn')">📖 Charger Docs</button>
         </div>
-
-        <div class="teach-section" id="teach-section" style="display:none;">
-            <h3>🎓 Apprends-moi !</h3>
-            <textarea id="answer-input" placeholder="Écris la réponse..."></textarea>
-            <button onclick="teachAI()">Enseigner</button>
-            <button onclick="cancelTeach()">Annuler</button>
-        </div>
-
-        <div class="load-section">
-            <h3>📖 Charger des Documents</h3>
-            <input type="text" id="url-input" placeholder="URL d'un site web..." />
-            <button onclick="loadFromURL()">Charger depuis URL</button>
-            <br><br>
-            <input type="text" id="folder-input" placeholder="Chemin du dossier (ex: /home/user/projet)..." />
-            <button onclick="loadFromFolder()">📁 Charger un dossier</button>
-            <br><br>
-            <textarea id="text-input" placeholder="Ou colle du texte ici..."></textarea>
-            <button onclick="loadFromText()">Charger le texte</button>
-        </div>
-
-        <div class="knowledge-section">
-            <h3>📚 Connaissances</h3>
-            <button onclick="showKnowledge()">Voir tout</button>
-            <div id="knowledge-list"></div>
+        
+        <div class="sidebar-footer">
+            <div class="status-indicator">
+                <span id="ai-status">⚪ Chargement...</span>
+            </div>
+            <button id="agent-toggle" onclick="toggleAgentMode()">Mode Agent: OFF</button>
         </div>
     </div>
 
-    <script>
-        let currentQuestion = '';
+    <!-- Main Content -->
+    <div class="main-content">
+        <!-- Chat Tab -->
+        <div id="chat-tab" class="tab-content active">
+            <div class="chat-container">
+                <div class="chat-messages" id="chat-box"></div>
+                <div class="chat-input-container">
+                    <input type="text" id="question-input" placeholder="💭 Pose une question à Shpekoo-AI..." />
+                    <button onclick="askQuestion()" class="send-btn">Envoyer</button>
+                </div>
+            </div>
+        </div>
 
-        async function askQuestion() {
-            const input = document.getElementById('question-input');
-            const question = input.value.trim();
+        <!-- History Tab -->
+        <div id="history-tab" class="tab-content">
+            <div class="tab-header">
+                <h2>📜 Historique des Conversations</h2>
+                <div>
+                    <input type="text" id="history-search" placeholder="🔍 Rechercher..." onkeyup="searchHistory()" />
+                    <button onclick="clearHistory()" class="danger-btn">Effacer tout</button>
+                </div>
+            </div>
+            <div id="history-list" class="history-list"></div>
+        </div>
+
+        <!-- Knowledge Tab -->
+        <div id="knowledge-tab" class="tab-content">
+            <div class="tab-header">
+                <h2>📚 Base de Connaissances</h2>
+                <input type="text" id="knowledge-search" placeholder="🔍 Rechercher..." onkeyup="searchKnowledge()" />
+            </div>
+            <div id="knowledge-list" class="knowledge-list"></div>
+        </div>
+
+        <!-- Code Execution Tab -->
+        <div id="code-tab" class="tab-content">
+            <div class="tab-header">
+                <h2>▶️ Exécuter du Code</h2>
+                <div>
+                    <select id="language-select" style="padding:10px; border-radius:8px; margin-right:10px; font-size:14px;">
+                        <option value="python">Python</option>
+                        <option value="javascript">JavaScript</option>
+                        <option value="bash">Bash</option>
+                        <option value="c">C</option>
+                        <option value="cpp">C++</option>
+                        <option value="java">Java</option>
+                        <option value="ruby">Ruby</option>
+                        <option value="php">PHP</option>
+                        <option value="go">Go</option>
+                    </select>
+                    <button onclick="executeCode()" class="success-btn">▶️ Exécuter</button>
+                </div>
+            </div>
+            <textarea id="code-input" class="code-editor" placeholder="# Écris ton code ici...
+print('Hello from Shpekoo-AI!')"></textarea>
+            <div class="code-output">
+                <h3>📤 Sortie :</h3>
+                <pre id="code-output"></pre>
+            </div>
+        </div>
+
+        <!-- Learn Tab -->
+        <div id="learn-tab" class="tab-content">
+            <div class="tab-header">
+                <h2>📖 Charger des Documents</h2>
+            </div>
             
-            if (!question) return;
+            <div class="learn-section">
+                <h3>🌐 Depuis une URL</h3>
+                <div class="input-group">
+                    <input type="text" id="url-input" placeholder="https://example.com" />
+                    <button onclick="loadFromURL()">Charger</button>
+                </div>
+            </div>
 
-            addMessage('Toi: ' + question, 'user');
-            input.value = '';
+            <div class="learn-section">
+                <h3>📁 Depuis un Dossier</h3>
+                <div class="input-group">
+                    <input type="text" id="folder-input" placeholder="/home/user/projet" />
+                    <button onclick="loadFromFolder()">Charger</button>
+                </div>
+            </div>
 
-            const response = await fetch('/ask', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({question})
-            });
+            <div class="learn-section">
+                <h3>📝 Depuis du Texte</h3>
+                <textarea id="text-input" placeholder="Colle ton texte ici..."></textarea>
+                <button onclick="loadFromText()">Charger</button>
+            </div>
+        </div>
+    </div>
 
-            const result = await response.json();
-
-            if (result.found) {
-                let source = '🤖 Modèle IA';
-                if (result.source === 'memory') source = '💾 Mémoire';
-                if (result.source === 'agent') source = '⚙️ Agent';
-                
-                const formattedAnswer = formatMarkdown(result.answer);
-                addMessageHTML(`IA [${source}]: ${formattedAnswer}`, 'ai');
-            } else {
-                addMessage('IA: Je ne sais pas encore. Tu veux m\'apprendre ?', 'ai');
-                currentQuestion = question;
-                document.getElementById('teach-section').style.display = 'block';
-            }
-
-            updateStats();
-        }
-
-        async function teachAI() {
-            const answer = document.getElementById('answer-input').value.trim();
-            
-            if (!answer) return;
-
-            const response = await fetch('/learn', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({question: currentQuestion, answer})
-            });
-
-            const result = await response.json();
-            addMessage('IA: ' + result.message + ' ✅', 'ai success');
-            
-            document.getElementById('teach-section').style.display = 'none';
-            document.getElementById('answer-input').value = '';
-            updateStats();
-        }
-
-        function cancelTeach() {
-            document.getElementById('teach-section').style.display = 'none';
-            document.getElementById('answer-input').value = '';
-        }
-
-        async function showKnowledge() {
-            const response = await fetch('/knowledge');
-            const knowledge = await response.json();
-            
-            const list = document.getElementById('knowledge-list');
-            list.innerHTML = '';
-            
-            knowledge.forEach((item, index) => {
-                const div = document.createElement('div');
-                div.className = 'knowledge-item';
-                div.innerHTML = `
-                    <strong>Q:</strong> ${item.question}<br>
-                    <strong>R:</strong> ${item.answer}
-                    <button onclick="forgetKnowledge('${item.question}')">🗑️</button>
-                `;
-                list.appendChild(div);
-            });
-        }
-
-        async function forgetKnowledge(question) {
-            const response = await fetch('/forget', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({question})
-            });
-
-            const result = await response.json();
-            addMessage('IA: ' + result.message, 'ai');
-            showKnowledge();
-            updateStats();
-        }
-
-        async function updateStats() {
-            const response = await fetch('/stats');
-            const stats = await response.json();
-            document.getElementById('knowledge-count').textContent = stats.total_knowledge;
-            
-            const statusEl = document.getElementById('ai-status');
-            if (stats.ai_model_available) {
-                statusEl.innerHTML = '✅ Modèle IA actif';
-                statusEl.style.color = '#4caf50';
-            } else {
-                statusEl.innerHTML = '⚠️ Modèle IA non disponible';
-                statusEl.style.color = '#ff9800';
-            }
-            
-            // Update agent button
-            const agentBtn = document.getElementById('agent-toggle');
-            if (stats.agent_mode) {
-                agentBtn.textContent = 'Mode Agent: ON';
-                agentBtn.style.background = '#238636';
-            } else {
-                agentBtn.textContent = 'Mode Agent: OFF';
-                agentBtn.style.background = '#6e7681';
-            }
-        }
-        
-        async function toggleAgentMode() {
-            const response = await fetch('/toggle-agent', {
-                method: 'POST'
-            });
-            const result = await response.json();
-            
-            if (result.agent_mode) {
-                addMessage('⚙️ Mode Agent activé - L\'IA peut maintenant exécuter des actions', 'ai success');
-            } else {
-                addMessage('🚫 Mode Agent désactivé - L\'IA ne fera que répondre', 'ai');
-            }
-            
-            updateStats();
-        }
-
-        function addMessage(text, className) {
-            const chatBox = document.getElementById('chat-box');
-            const msg = document.createElement('div');
-            msg.className = 'message ' + className;
-            msg.textContent = text;
-            chatBox.appendChild(msg);
-            chatBox.scrollTop = chatBox.scrollHeight;
-        }
-
-        function addMessageHTML(html, className) {
-            const chatBox = document.getElementById('chat-box');
-            const msg = document.createElement('div');
-            msg.className = 'message ' + className;
-            msg.innerHTML = html;
-            chatBox.appendChild(msg);
-            chatBox.scrollTop = chatBox.scrollHeight;
-        }
-
-        function formatMarkdown(text) {
-            // Convertit les blocs de code
-            text = text.replace(/```([\s\S]*?)```/g, '<pre><code>$1</code></pre>');
-            // Convertit le code inline
-            text = text.replace(/`([^`]+)`/g, '<code>$1</code>');
-            // Convertit les sauts de ligne
-            text = text.replace(/\n/g, '<br>');
-            return text;
-        }
-
-        async function loadFromURL() {
-            const input = document.getElementById('url-input');
-            const url = input.value.trim();
-            
-            if (!url) return;
-
-            addMessage('⏳ Chargement en cours...', 'ai');
-
-            const response = await fetch('/load-url', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({url})
-            });
-
-            const result = await response.json();
-
-            if (result.success) {
-                addMessage(`✅ ${result.message}`, 'ai success');
-                input.value = '';
-            } else {
-                addMessage(`❌ Erreur: ${result.error}`, 'ai');
-            }
-
-            updateStats();
-        }
-
-        async function loadFromText() {
-            const input = document.getElementById('text-input');
-            const text = input.value.trim();
-            
-            if (!text) return;
-
-            addMessage('⏳ Analyse du texte...', 'ai');
-
-            const response = await fetch('/load-text', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({text})
-            });
-
-            const result = await response.json();
-
-            if (result.success) {
-                addMessage(`✅ ${result.message}`, 'ai success');
-                input.value = '';
-            } else {
-                addMessage(`❌ Erreur: ${result.error}`, 'ai');
-            }
-
-            updateStats();
-        }
-
-        async function loadFromFolder() {
-            const input = document.getElementById('folder-input');
-            const folder_path = input.value.trim();
-            
-            if (!folder_path) return;
-
-            addMessage('⏳ Chargement du dossier...', 'ai');
-
-            const response = await fetch('/load-folder', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({folder_path})
-            });
-
-            const result = await response.json();
-
-            if (result.success) {
-                addMessage(`✅ ${result.message}`, 'ai success');
-                input.value = '';
-            } else {
-                addMessage(`❌ Erreur: ${result.error}`, 'ai');
-            }
-
-            updateStats();
-        }
-
-        document.getElementById('question-input').addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') askQuestion();
-        });
-
-        updateStats();
-    </script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
