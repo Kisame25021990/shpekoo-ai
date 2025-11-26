@@ -152,7 +152,10 @@ def load_base_knowledge():
     print("🧠 Chargement des connaissances de base...")
     count = 0
     for k in knowledge:
-        ai.learn(k)
+        # Créer une question basée sur le contenu
+        words = k.split()[:3]
+        question = " ".join(words) + "?"
+        ai.learn(question, k)
         count += 1
         if count % 10 == 0:
             print(f"   ✓ {count}/{len(knowledge)} connaissances chargées")
