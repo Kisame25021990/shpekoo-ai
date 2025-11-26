@@ -1,0 +1,5844 @@
+{
+  "successful_tasks": [
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:52:37.864427",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T12:52:44.730911",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T12:52:57.960898",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:04.524888",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:08.843372",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:15.640935",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:21.090320",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:28.621482",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:34.781677",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:38.910228",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:46.072079",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:52.261036",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:53:59.518790",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:08.385206",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:12.542801",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:17.379808",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:24.591465",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:29.896475",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:34.121139",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:38.308149",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:47.467185",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T12:54:56.309346",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:03.530807",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:10.413185",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:16.630816",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:21.427010",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:25.760259",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:33.307506",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:41.340923",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:45.606626",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:55:59.086660",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:03.440361",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:07.565363",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:14.859336",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:22.487420",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:29.311212",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:33.837455",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:38.162228",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:42.345270",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:48.125201",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:52.129568",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:56:57.238389",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:03.533546",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:07.743935",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:18.130091",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:26.790622",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:30.941272",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:37.374467",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:44.989622",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:49.450592",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:53.820374",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:57:57.930598",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:07.477059",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:11.745507",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:17.610935",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:22.257972",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:31.674742",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:36.092671",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:43.254479",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:51.639350",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T12:58:55.903239",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:00.133237",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:04.349021",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:11.489558",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:15.754519",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:20.280808",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:24.452936",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:29.845206",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:38.346319",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:42.520595",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T12:59:50.539810",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:02.092532",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:06.957843",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:16.372770",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:24.406578",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:33.591840",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:37.822796",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:42.033264",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:46.254304",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:51.038893",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T13:00:58.836134",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:03.740482",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:08.361861",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:12.509643",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:20.074440",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:28.021028",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:34.453182",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:39.664968",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:01:53.463543",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:03.582335",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:08.880424",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:16.697355",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:23.057194",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:35.482324",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:39.707522",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:45.703650",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:51.467829",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:02:57.235325",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:08.758860",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:14.088688",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:18.227402",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:25.619755",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:37.713488",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:41.815234",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:46.075412",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T13:03:53.436034",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:04:03.693648",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:04:08.812162",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:04:18.698498",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:04:29.052967",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:04:36.057428",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:32.498161",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:35.501193",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:38.504120",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:41.508377",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:44.511332",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:47.514976",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:50.518467",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:53.522358",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:56.526319",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:07:59.529918",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:02.533748",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:05.537213",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:08.540626",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:11.545207",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:14.551787",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:17.555344",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:20.558276",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:23.562038",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:26.566906",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:29.570856",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:32.573918",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:35.577800",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:38.581406",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:41.584622",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:44.587725",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:47.591257",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:50.594767",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:53.598871",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:56.601979",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T13:08:59.605345",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:02.608604",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:05.612262",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:08.615230",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:11.618928",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:14.622470",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:17.626259",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:20.632109",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:23.635582",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:26.639222",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:29.643185",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:32.647577",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:35.652905",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T13:09:38.656558",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:10.525004",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:11.529852",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:12.533602",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:13.538175",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:14.542341",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:15.546897",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:16.551533",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:17.556296",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:18.561713",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:19.566358",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:20.570802",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:21.574948",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:22.579681",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:23.583816",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:24.588234",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:25.592213",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:26.596228",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:27.600554",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:28.604891",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:29.610776",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:30.615527",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:31.620422",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:32.625312",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:33.629776",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:34.637392",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:35.641518",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:36.646107",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:37.650856",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:38.655764",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:39.660930",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:40.665954",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:41.670617",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:42.675099",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:43.679600",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:44.685551",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:45.692772",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:46.697756",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:47.702429",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:48.706859",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:49.711438",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:50.716416",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:51.721528",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:52.727645",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:53.732772",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:54.737995",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:55.742749",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:56.750070",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:57.756839",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:58.761459",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:00:59.767174",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:00.772108",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:01.777324",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:02.781988",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:03.787009",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:04.791199",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:05.797586",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:06.814434",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:07.824364",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:08.829983",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:09.835063",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:10.839490",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:11.843673",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:12.848972",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:13.854074",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:14.859420",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:15.865068",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:16.869682",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:17.874399",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:18.881160",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:19.885877",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:20.890705",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:21.895155",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:22.900259",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:23.905936",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:24.911191",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:25.915785",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:26.920256",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:27.925444",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:28.930618",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:29.936762",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:30.941750",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:31.947733",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:32.953069",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:33.960397",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:34.965431",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:35.970940",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:36.975856",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:37.980823",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:38.985654",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:39.990308",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:40.995590",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:42.000077",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:43.005271",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:44.011091",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:45.017852",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:46.026983",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:47.031884",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:48.037832",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:49.042822",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:01:50.047629",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:45.046624",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:46.051131",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:47.056040",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:48.060582",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:49.066368",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:50.070875",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:51.075936",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:52.081444",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:53.086742",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:54.092697",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:55.097551",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:56.102397",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:57.107832",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:58.115431",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:02:59.120449",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:00.125043",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:01.130056",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:02.134517",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:03.140315",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:04.145170",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:05.150066",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:06.156357",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:07.162075",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:08.167271",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:09.172414",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:10.177809",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:11.183841",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:12.191373",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:13.200138",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:14.212698",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:15.218602",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:16.224355",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:17.232502",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:18.250702",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:19.256507",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:20.261675",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:36.252307",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:38.257118",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:40.262335",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:42.267165",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:44.272675",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:46.279197",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:48.289662",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:50.297724",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:52.302851",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:54.308303",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:56.314559",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:03:58.320402",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:00.329453",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:02.341639",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:04.367516",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:06.372350",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:08.378052",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:10.385794",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:12.391050",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:14.396442",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:16.401819",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:18.407502",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:20.412598",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:22.418055",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:24.422730",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:26.429298",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:28.434615",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:30.440500",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:32.446980",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:34.452613",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:36.457580",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:38.463130",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:40.469041",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:42.474314",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:44.479822",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:46.485184",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:48.491444",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:50.497904",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:52.503563",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:54.508674",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:56.514811",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:04:58.519893",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:00.525807",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:02.532450",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:04.538896",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:06.545193",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:08.551609",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:10.566663",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:12.573593",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:14.580289",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:16.586194",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:18.591168",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:20.597195",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:22.604561",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:24.613462",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:26.620249",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:28.626006",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:30.633961",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:32.651748",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:34.659223",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:36.664383",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:38.670057",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:40.676343",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:42.682777",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:44.688849",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:46.695086",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:48.701643",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:50.707054",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:52.712795",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:54.721177",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:56.729229",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:05:58.735555",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:00.743244",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:02.751838",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:04.758720",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:06.764562",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:08.770754",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:10.776955",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:12.782722",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:14.790108",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:16.798201",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:18.804858",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:20.811003",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:22.818509",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:24.825553",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:26.831468",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:28.838175",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:30.845853",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:32.853803",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:34.860682",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:36.866905",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:38.874192",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:40.880368",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:42.886779",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:44.892182",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:46.899267",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:48.906311",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:50.914355",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:52.921706",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:54.928059",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:56.934823",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:06:58.941313",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:00.953469",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:02.959891",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:04.966780",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:06.974500",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:08.980148",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:10.987798",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:12.993383",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:14.998573",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:17.004353",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:19.011015",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:21.018056",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:23.025764",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:25.031156",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:27.037588",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:29.043077",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:31.049795",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:33.057796",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:35.064118",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:37.071109",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:39.077801",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:41.084634",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:43.091478",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:45.098490",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:47.105298",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:49.110976",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:51.116761",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:53.123420",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:55.132449",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:57.139773",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:07:59.149607",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:01.170491",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:03.183566",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:05.190706",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:07.198437",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:09.205881",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:11.214629",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:13.220375",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:15.227778",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:17.234043",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:19.241176",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:21.247000",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:23.253634",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:25.260623",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:27.267866",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:29.275561",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:31.281792",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:33.287682",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:35.294782",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:37.301578",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:39.308958",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:41.315315",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:43.321796",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:45.334738",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:47.341358",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:49.348573",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:51.355853",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:53.364772",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:55.371285",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:57.378129",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:08:59.384081",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:01.391453",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:03.410147",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:05.416222",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:07.425427",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:09.432524",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:11.438776",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:13.446019",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:15.453707",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:17.461216",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:19.467296",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:21.474320",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:23.482262",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:25.489294",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:27.496356",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:29.504241",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:31.511878",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:33.527750",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:35.534415",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:37.540683",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:39.547517",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:41.554517",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:43.561945",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:45.577054",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:47.583502",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:49.590772",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:51.599922",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:53.615100",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:55.621681",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:57.629668",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:09:59.636592",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:01.643500",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:03.650657",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:05.657641",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:07.666407",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:09.673377",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:11.681432",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:13.688211",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:15.697082",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:17.705320",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:19.713575",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:21.720393",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:23.728671",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:25.735353",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:27.743203",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:29.750559",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:31.758917",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:33.766432",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:35.773540",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:37.779502",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:39.786350",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:41.794077",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:43.800440",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:45.806920",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:47.813757",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:49.822419",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:51.839211",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:53.845237",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:55.851535",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:57.859857",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:10:59.867586",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:01.876082",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:03.883389",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:05.890361",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:07.898191",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:09.904727",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:11.911080",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:13.924570",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:15.932272",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:17.939175",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:19.948707",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:21.954946",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:23.962076",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:25.969392",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:27.976604",
+      "result": "success"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:29.984473",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:31.991719",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:33.999205",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:36.008150",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:38.015045",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:40.022185",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:42.030008",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:44.037720",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:46.044665",
+      "result": "success"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:48.053570",
+      "result": "success"
+    },
+    {
+      "task": "Fais un exemple de boucle while",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:50.060047",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:52.067409",
+      "result": "success"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:54.074221",
+      "result": "success"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:56.081469",
+      "result": "success"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "plan": [],
+      "timestamp": "2025-11-26T14:11:58.092772",
+      "result": "success"
+    }
+  ],
+  "failed_tasks": [
+    {
+      "task": "Crée un fichier pour les tuples",
+      "error": "",
+      "timestamp": "2025-11-26T12:49:35.144540"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "error": "",
+      "timestamp": "2025-11-26T12:49:41.694645"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "error": "",
+      "timestamp": "2025-11-26T12:49:45.888327"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "timestamp": "2025-11-26T12:49:51.521773"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "error": "",
+      "timestamp": "2025-11-26T12:49:58.931219"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "error": "",
+      "timestamp": "2025-11-26T12:50:03.290828"
+    },
+    {
+      "task": "Fais un exemple de compréhension de liste",
+      "error": "",
+      "timestamp": "2025-11-26T12:50:11.999876"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "error": "",
+      "timestamp": "2025-11-26T12:50:16.226544"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "timestamp": "2025-11-26T12:50:23.073289"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "timestamp": "2025-11-26T12:50:28.824887"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "error": "",
+      "timestamp": "2025-11-26T12:50:38.431678"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "timestamp": "2025-11-26T12:50:45.254577"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "error": "",
+      "timestamp": "2025-11-26T12:51:25.729177"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "error": "",
+      "timestamp": "2025-11-26T12:51:30.101937"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "error": "",
+      "timestamp": "2025-11-26T12:51:40.572553"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "error": "",
+      "timestamp": "2025-11-26T12:51:45.229400"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "timestamp": "2025-11-26T12:51:55.050742"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "error": "",
+      "timestamp": "2025-11-26T12:51:59.352290"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "error": "",
+      "timestamp": "2025-11-26T12:52:06.276705"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "error": "",
+      "timestamp": "2025-11-26T12:52:10.490154"
+    }
+  ],
+  "patterns": {
+    "fichier": [
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Crée un fichier pour les tuples",
+        "plan": []
+      }
+    ],
+    "boucle": [
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un fichier avec des boucles for",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      },
+      {
+        "task": "Fais un exemple de boucle while",
+        "plan": []
+      }
+    ],
+    "script": [
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script pour manipuler des strings",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      },
+      {
+        "task": "Génère un script avec des opérateurs",
+        "plan": []
+      }
+    ],
+    "fonction": [
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      },
+      {
+        "task": "Crée un script avec des fonctions",
+        "plan": []
+      }
+    ],
+    "liste": [
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      },
+      {
+        "task": "Génère un exemple de liste",
+        "plan": []
+      }
+    ],
+    "variable": [
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      },
+      {
+        "task": "Crée un script sur les variables Python",
+        "plan": []
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "task": "Crée un fichier pour les tuples",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:49:35.144547"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:49:41.694653"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:49:45.888347"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:49:51.521779"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:49:58.931227"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:50:03.290842"
+    },
+    {
+      "task": "Fais un exemple de compréhension de liste",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:50:11.999886"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:50:16.226551"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:50:23.073298"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:50:28.824894"
+    },
+    {
+      "task": "Crée un script sur les variables Python",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:50:38.431684"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:50:45.254586"
+    },
+    {
+      "task": "Crée un fichier pour les tuples",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:51:25.729184"
+    },
+    {
+      "task": "Fais un exemple de dictionnaire",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:51:30.101945"
+    },
+    {
+      "task": "Crée un script pour manipuler des strings",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:51:40.572561"
+    },
+    {
+      "task": "Génère un exemple de conditions if/else",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:51:45.229412"
+    },
+    {
+      "task": "Crée un script avec des fonctions",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:51:55.050750"
+    },
+    {
+      "task": "Génère un script avec des opérateurs",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:51:59.352298"
+    },
+    {
+      "task": "Fais un fichier avec des boucles for",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:52:06.276714"
+    },
+    {
+      "task": "Génère un exemple de liste",
+      "error": "",
+      "suggestion": "Améliorer la détection de mots-clés",
+      "timestamp": "2025-11-26T12:52:10.490165"
+    }
+  ]
+}
