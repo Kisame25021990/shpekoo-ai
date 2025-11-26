@@ -2,7 +2,7 @@ import requests
 import json
 
 class AIModel:
-    def __init__(self, model_name="llama3.2:3b", base_url="http://localhost:11434"):
+    def __init__(self, model_name="llama3.1:8b", base_url="http://localhost:11434"):
         self.model_name = model_name
         self.base_url = base_url
     

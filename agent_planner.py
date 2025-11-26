@@ -7,8 +7,77 @@ class AgentPlanner:
         self.tools = tools
     
     def plan_task(self, task):
-        """Décompose une tâche en étapes - utilise toujours le plan par défaut"""
+        """Décompose une tâche en étapes - utilise l'IA si disponible, sinon plan par défaut"""
+        # Essaie d'abord avec l'IA pour générer du code intelligent
+        if self.ai_model and self.ai_model.is_available():
+            ai_plan = self._ai_plan(task)
+            if ai_plan['success']:
+                return ai_plan
+        
+        # Sinon, utilise le plan par défaut
         return self._default_plan(task)
+    
+    def _ai_plan(self, task):
+        """Utilise l'IA pour générer du code directement avec un prompt optimisé"""
+        
+        # Prompt unique optimisé pour générer du code de qualité
+        code_prompt = f"""Tu es un développeur Python expert. Génère un script Python complet et fonctionnel.
+
+Demande: {task}
+
+Instructions:
+- Génère UNIQUEMENT du code Python, sans explications
+- Le code doit être complet et prêt à l'exécution
+- Utilise les bonnes pratiques Python
+- Ajoute des commentaires uniquement si nécessaire
+- Si la demande concerne des emails, utilise smtplib
+- Si la demande concerne du web scraping, utilise requests et beautifulsoup4
+- Si la demande concerne des fichiers, utilise os et shutil
+- Inclus la gestion des erreurs basique
+
+Si la demande est impossible ou pas claire, réponds 'IMPOSSIBLE'.
+
+Code Python:"""
+        
+        code_result = self.ai_model.chat(code_prompt, "")
+        
+        if not code_result['success'] or 'IMPOSSIBLE' in code_result['answer'].upper():
+            return {'success': False}
+        
+        # Extrait le code Python de la réponse
+        code = code_result['answer'].strip()
+        
+        # Nettoie le code (enlève les balises markdown si présentes)
+        if '```python' in code:
+            code = code.split('```python')[1].split('```')[0].strip()
+        elif '```' in code:
+            code = code.split('```')[1].split('```')[0].strip()
+        
+        # Vérifie que c'est du code Python valide
+        if not code or len(code) < 10:
+            return {'success': False}
+        
+        # Génère un nom de fichier basé sur la tâche
+        filename = 'script_genere.py'
+        if 'email' in task.lower():
+            filename = 'automatisation_emails.py'
+        elif 'web' in task.lower() or 'scraping' in task.lower():
+            filename = 'web_scraping.py'
+        elif 'fichier' in task.lower():
+            filename = 'gestion_fichiers.py'
+        elif 'bot' in task.lower():
+            filename = 'bot.py'
+        
+        return {
+            'success': True,
+            'steps': [{
+                'action': 'create_file',
+                'params': {
+                    'filename': filename,
+                    'content': code
+                }
+            }]
+        }
     
     def _default_plan(self, task):
         """Plan par défaut intelligent basé sur mots-clés"""

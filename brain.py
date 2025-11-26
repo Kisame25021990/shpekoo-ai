@@ -32,7 +32,7 @@ class LearningAI:
     
     def ask(self, question):
         # Détecte si c'est une demande d'action
-        action_keywords = ['crée', 'créer', 'cree', 'creer', 'fais', 'faire', 'exécute', 'execute', 'lance', 'lancer', 'installe', 'installer', 'génère', 'genere', 'générer', 'generer', 'écris', 'ecris', 'écrire', 'ecrire', 'code', 'programme', 'script', 'page', 'fichier', 'application', 'app']
+        action_keywords = ['crée', 'créer', 'cree', 'creer', 'créé', 'cre', 'fais', 'faire', 'fait', 'exécute', 'execute', 'lance', 'lancer', 'installe', 'installer', 'génère', 'genere', 'générer', 'generer', 'écris', 'ecris', 'écrire', 'ecrire', 'code', 'programme', 'script', 'scrypte', 'page', 'fichier', 'application', 'app']
         is_action = any(keyword in question.lower() for keyword in action_keywords)
         
         # Mode agent pour les actions
