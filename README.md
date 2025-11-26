@@ -40,8 +40,8 @@ ollama pull llama3.2:3b
 bash setup_aliases.sh
 source ~/.bashrc
 
-# 6. Charger les connaissances
-cyber && prog
+# 6. Charger les connaissances de base
+base && cyber && prog
 ```
 
 ## ⚡ Commandes
@@ -54,6 +54,9 @@ cyber && prog
 | `train` | Entraînement (100 itérations) |
 | `trainforever` | Entraînement infini |
 | `collective` | Cerveau collectif |
+| `base` | Charger 90+ connaissances de base |
+| `cyber` | Charger connaissances cybersécurité |
+| `prog` | Charger connaissances programmation |
 | `aide` | Voir toutes les commandes |
 
 ## 🔧 Outils de pentesting (optionnels)
@@ -114,11 +117,20 @@ trainforever
 
 ## 📚 Capacités
 
-- **Python** : Variables, listes, fonctions, boucles, etc.
+- **Python** : Variables, listes, fonctions, boucles, POO, async, etc.
 - **Cybersécurité** : OWASP Top 10, SQL injection, XSS, pentesting
 - **Programmation** : JavaScript, React, Node.js, Java, C++, PHP, etc.
 - **Pentesting** : Nmap, Metasploit, Burp Suite, Hydra, Hashcat
+- **DevOps** : Docker, CI/CD, Git, Linux, Cloud (AWS)
+- **Web** : REST APIs, Flask, bases de données, sécurité
 - **Auto-apprentissage** : S'améliore automatiquement
+
+### 🎁 Connaissances pré-chargées
+
+L'IA vient avec **145+ connaissances** prêtes à l'emploi :
+- **90+ concepts de base** : Python avancé, Web, Git, Linux, Docker, Best Practices
+- **30+ concepts cyber** : OWASP, pentesting, outils, techniques
+- **25+ langages** : JavaScript, React, Java, C++, PHP, Ruby, Go, Rust, etc.
 
 ## ⚠️ Avertissement
 

@@ -1,0 +1,120 @@
+╔══════════════════════════════════════════════════════════════╗
+║              🤖 SHPEKOO-AI - GUIDE DES COMMANDES             ║
+╚══════════════════════════════════════════════════════════════╝
+
+📋 COMMANDES PRINCIPALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  shpekoo          Interface web sur http://127.0.0.1:5000
+                   Pose des questions, charge des URLs/dossiers
+
+  pentest          Assistant pentesting interactif
+                   Nmap, Gobuster, Nikto, SQLmap, Payloads
+
+  bruteforce       Outils de brute force et crack
+                   Hydra (SSH/FTP/HTTP), Hashcat, John the Ripper
+
+  train            Entraînement autonome (100 itérations)
+                   L'IA s'entraîne sur différentes tâches
+
+  trainforever     Entraînement infini avec statistiques
+                   Ctrl+C pour arrêter
+
+  collective       Cerveau collectif - Partage de connaissances
+                   Mode 1: Apprendre des autres
+                   Mode 2: Partager + Apprendre (auto-sync)
+
+  aide             Affiche ce guide
+
+
+🧠 CHARGEMENT DE CONNAISSANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  base             Connaissances de base (90+ concepts)
+                   Python, Web, Sécurité, DevOps, Best Practices
+
+  cyber            Connaissances cybersécurité (30+ concepts)
+                   OWASP, Pentesting, Outils, Techniques
+
+  prog             Connaissances programmation (25+ langages)
+                   JavaScript, React, Java, C++, Docker, etc.
+
+
+📊 VÉRIFICATION SYSTÈME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  cd ~/learning-ai && source venv/bin/activate && python audit_ia.py
+
+
+💡 EXEMPLES D'UTILISATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  # Charger toutes les connaissances au démarrage
+  base && cyber && prog
+
+  # Lancer l'interface web
+  shpekoo
+
+  # Scanner un réseau
+  pentest
+  > Choisir option 1 (Nmap)
+  > Entrer l'IP cible
+
+  # Entraînement continu en arrière-plan
+  trainforever &
+
+  # Partager avec le cerveau collectif
+  collective
+  > Mode 2 (Partager + Apprendre)
+
+
+⚙️ CONFIGURATION INITIALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Installer Ollama:
+     curl -fsSL https://ollama.com/install.sh | sh
+     ollama serve &
+     ollama pull llama3.2:3b
+
+  2. Créer l'environnement:
+     cd ~/learning-ai
+     python3 -m venv venv
+     source venv/bin/activate
+     pip install flask requests beautifulsoup4
+
+  3. Configurer les alias:
+     bash setup_aliases.sh
+     source ~/.bashrc
+
+  4. Charger les connaissances:
+     base && cyber && prog
+
+
+🔐 OUTILS PENTESTING (OPTIONNELS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  sudo apt update
+  sudo apt install -y nmap hydra hashcat john gobuster nikto sqlmap
+
+
+⚠️  AVERTISSEMENT LÉGAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Utilisez les outils de pentesting UNIQUEMENT sur:
+  ✓ Vos propres systèmes
+  ✓ Environnements de test (HackTheBox, TryHackMe)
+  ✓ Avec autorisation écrite explicite
+
+  Le pentesting sans autorisation est ILLÉGAL.
+
+
+📚 RESSOURCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  GitHub: https://github.com/Kisame25021990/shpekoo-ai
+  Documentation: ~/learning-ai/README.md
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  💪 Bon apprentissage et bon pentesting avec Shpekoo-AI !    ║
+╚══════════════════════════════════════════════════════════════╝
